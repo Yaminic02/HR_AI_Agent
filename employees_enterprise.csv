@@ -1,0 +1,201 @@
+employee_id,name,department,role,manager_name,date_of_joining,tenure_years,salary,bonus_last_year,performance_score,last_appraisal_score,trainings_completed,skills,engagement_score,absenteeism_days,promotions_last_3y,last_promotion_date,attrition_risk_score,promotion_eligibility_score,retention_urgency,department_size,manager_team_size
+1,Ethan Sinclair,Product,Associate Executive,Wendy Oakridge,2021-11-05,4.1,107333,16099,2.63,3.13,12,"Communication, Testing, Cloud, Java",74,0,1,2022-12-11,0.0,58.25,Low,38,24
+2,Sara Blackwood,HR,Associate Analyst,Sara Blackwood,2017-07-23,8.39,50975,7646,2.29,2.0,7,"Excel, Java, Testing",94,17,1,2025-12-10,2.3,47.15,Low,32,7
+3,Paula Iverson,Engineering,Senior Engineer,Uma Vanderbilt,2016-05-15,9.58,179833,26974,1.56,1.35,5,Java,88,7,1,2025-12-10,2.4,31.0,Low,29,5
+4,Uma Vanderbilt,Finance,Manager Analyst,Julia Zephyr,2023-12-22,1.97,93133,9313,2.81,2.47,7,"Data Analysis, Python, Testing, Excel",68,14,0,,24.3,69.75,Low,22,11
+5,Julia Ellsworth,Marketing,Manager Engineer,Ian Zephyr,2024-06-24,1.46,89733,13459,4.69,4.37,1,"SQL, Design, Leadership",63,28,0,,26.3,84.95,Low,20,24
+6,Fiona Rutherford,Support,Manager Engineer,Hannah Rutherford,2022-01-30,3.86,66083,3304,3.15,4.25,7,Cloud,100,10,1,2023-12-11,0.0,61.25,Low,33,11
+7,Martin Zephyr,Support,Senior Executive,Bella Blackwood,2018-03-13,7.75,65833,6583,4.3,4.49,11,Design,81,1,1,2022-12-11,0.0,82.7,Low,33,24
+8,Victor Sinclair,Product,Manager Executive,Martin Oakridge,2024-04-11,1.67,91133,0,4.69,4.22,5,Design,87,5,1,2022-12-11,0.0,77.75,Low,38,14
+9,Aaron Crawford,Marketing,Associate Executive,George Crawford,2020-08-26,5.29,144083,7204,2.5,2.18,11,"Negotiation, Leadership, Python, Excel",83,16,0,,17.8,76.1,Low,20,13
+10,Bella Blackwood,Engineering,Lead Analyst,Ethan Northwood,2015-09-05,10.27,148466,14846,2.36,2.29,5,Negotiation,57,29,1,2024-12-10,45.6,36.8,Medium,29,16
+11,Martin Oakridge,Engineering,Associate Analyst,Yara Montgomery,2020-01-12,5.92,59733,5973,3.3,1.9,12,Communication,43,8,1,2024-12-10,22.2,62.1,Low,29,11
+12,Laura Northwood,Finance,Senior Analyst,Julia Crawford,2016-11-18,9.07,105350,5267,2.94,3.4,7,"Python, Negotiation, Data Analysis, Java",67,12,0,,21.4,71.5,Low,22,13
+13,Zane Rutherford,Product,Manager Executive,Zane Rutherford,2017-11-23,8.05,133666,13366,3.5,3.84,1,Java,56,27,1,2023-12-11,32.6,45.7,Low,38,14
+14,Hannah Westbrook,Product,Manager Executive,Bella Kingsley,2016-08-06,9.35,71166,10674,3.73,3.33,2,"Python, Leadership, Testing, Negotiation",44,26,0,,48.7,68.75,Medium,38,24
+15,Fiona Jamison,HR,Associate Executive,Sara Langford,2020-01-22,5.89,119266,0,3.19,3.48,5,Leadership,75,1,1,2022-12-11,0.0,52.85,Low,32,5
+16,Martin Prescott,Product,Lead Analyst,Fiona Jamison,2018-06-11,7.5,97500,9750,3.49,4.69,4,"Testing, Design, Java, Communication",76,30,2,2022-12-11,10.3,35.55,Low,38,13
+17,Nina Jamison,Sales,Associate Engineer,Diana Donovan,2020-11-23,5.05,142083,14208,4.28,5.0,7,"Data Analysis, Cloud",50,1,1,2024-12-10,0.0,68.2,Low,26,24
+18,Sara Greenfield,Product,Associate Specialist,Nina Kingsley,2020-01-17,5.9,119333,11933,2.67,3.54,12,"Testing, Python, Java",58,23,1,2024-12-10,34.5,55.65,Low,38,11
+19,Caleb Westbrook,Marketing,Lead Specialist,Fiona Prescott,2025-03-18,0.73,84866,4243,3.52,4.05,0,"Design, Excel, Communication, Python",83,8,1,2024-12-10,0.0,49.4,Low,20,13
+20,Victor Northwood,Product,Manager Analyst,Xander Westbrook,2022-07-13,3.41,102733,0,4.9,5.0,1,Data Analysis,86,19,1,2023-12-11,0.0,72.7,Low,38,16
+21,Diana Sinclair,Marketing,Manager Engineer,Nina Jamison,2025-01-08,0.92,86133,4306,2.88,3.28,6,"Cloud, Java, Excel, Data Analysis",74,4,0,,6.8,70.0,Low,20,16
+22,George Rutherford,Sales,Associate Specialist,Sara Greenfield,2015-04-20,10.65,56625,5662,2.44,3.15,0,"Design, Java, Cloud, Python",82,1,0,,1.2,53.0,Low,26,14
+23,Ethan Donovan,Engineering,Lead Executive,Ryan Yorkston,2023-04-27,2.62,97466,14619,3.54,3.42,0,"Excel, Data Analysis, Communication",52,13,0,,28.6,63.5,Low,29,13
+24,Bella Rutherford,Sales,Manager Engineer,Oscar Blackwood,2015-07-23,10.39,111950,11195,3.66,3.89,0,"Excel, Data Analysis, SQL",57,4,0,,12.6,66.3,Low,26,7
+25,Martin Yorkston,Engineering,Manager Executive,Victor Northwood,2022-06-17,3.48,64500,3225,4.43,3.88,3,"Python, SQL, Cloud, Testing",38,18,2,2023-12-11,16.9,40.05,Low,29,11
+26,Zane Montgomery,Marketing,Senior Specialist,Nina Thornfield,2024-02-14,1.82,34550,1727,4.33,4.13,2,Java,68,1,0,,0.0,82.55,Low,20,13
+27,Zane Kingsley,Sales,Manager Engineer,Bella Rutherford,2025-01-24,0.88,42933,2146,2.83,2.03,1,"SQL, Excel, Python, Java",88,14,0,,8.1,62.05,Low,26,14
+28,Julia Sinclair,Support,Senior Engineer,Julia Quimby,2018-02-15,7.82,49550,0,2.95,3.78,4,"Design, Leadership, Java",82,25,0,,24.9,68.65,Low,33,10
+29,Ian Iverson,Engineering,Senior Executive,Uma Westbrook,2023-01-25,2.88,49600,4960,3.25,2.71,8,Testing,59,28,2,2023-12-11,23.9,36.55,Low,29,14
+30,Fiona Vanderbilt,Product,Manager Engineer,Zane Montgomery,2018-12-09,7.01,79208,0,2.53,3.57,5,"Python, Java, Cloud",72,24,0,,35.9,62.35,Medium,38,5
+31,Julia Iverson,Finance,Lead Specialist,Aaron Donovan,2016-01-20,9.9,54750,8212,4.42,3.79,11,"Leadership, SQL",72,6,0,,0.0,102.7,Low,22,12
+32,Thomas Rutherford,Support,Senior Specialist,Yara Rutherford,2025-05-25,0.55,52291,5229,4.44,4.27,11,Design,85,21,0,,2.8,105.6,Low,33,16
+33,Oscar Oakridge,Sales,Associate Executive,Uma Prescott,2024-05-03,1.61,34025,5103,2.63,1.95,5,Negotiation,75,11,0,,16.9,64.45,Low,26,10
+34,Aaron Montgomery,HR,Associate Engineer,Ryan Ellsworth,2015-06-03,10.53,93875,0,3.2,3.52,4,"Data Analysis, Communication, Python",40,2,0,,28.4,64.0,Low,32,8
+35,Ryan Greenfield,Product,Lead Analyst,Ian Prescott,2016-07-01,9.45,71500,10725,4.07,5.0,6,Leadership,69,6,0,,1.3,86.85,Low,38,11
+36,Sara Harrington,Sales,Lead Specialist,Kevin Quimby,2023-10-24,2.13,70650,0,3.53,3.62,4,Python,42,3,1,2022-12-11,14.7,49.35,Low,26,10
+37,Zane Harrington,Support,Senior Executive,Nina Ellsworth,2022-03-16,3.74,104933,5246,3.84,3.04,8,"Python, Excel, Negotiation",63,9,0,,12.0,86.2,Low,33,14
+38,Ethan Westbrook,Marketing,Associate Analyst,Martin Donovan,2023-10-16,2.15,117916,17687,4.49,4.12,0,"SQL, Data Analysis",77,18,0,,5.1,82.75,Low,20,6
+39,Wendy Donovan,HR,Associate Analyst,Ian Oakridge,2024-09-09,1.25,66250,9937,4.31,4.45,0,"Python, Communication, Design",49,4,2,2025-12-10,0.0,34.45,Low,32,10
+40,Paula Yorkston,Finance,Manager Executive,Martin Montgomery,2018-04-10,7.67,65566,6556,3.23,4.21,10,"Leadership, SQL, Testing, Python",39,6,0,,33.7,76.25,Low,22,13
+41,Xander Zephyr,Marketing,Lead Executive,Ian Ellsworth,2021-02-01,4.86,56200,0,3.28,3.0,8,Python,71,28,1,2024-12-10,24.0,59.4,Low,20,13
+42,Thomas Crawford,Support,Manager Engineer,Laura Donovan,2021-07-12,4.42,68416,6841,4.1,4.9,12,"Java, Negotiation, Cloud, Design",65,6,0,,4.2,98.5,Low,33,10
+43,Uma Sinclair,Engineering,Manager Executive,Martin Harrington,2017-03-28,8.71,103550,15532,4.15,4.4,10,"SQL, Testing",77,2,0,,0.0,97.65,Low,29,5
+44,Ryan Thornfield,Support,Associate Specialist,Hannah Montgomery,2015-03-26,10.72,151466,22719,3.05,2.55,12,"Design, Cloud",53,15,0,,35.1,80.35,Medium,33,24
+45,Ethan Vanderbilt,HR,Manager Analyst,Ethan Kingsley,2023-01-22,2.88,37200,0,2.89,3.05,11,Cloud,81,22,0,,22.7,81.55,Low,32,12
+46,Aaron Kingsley,Product,Senior Specialist,Wendy Harrington,2017-05-08,8.6,68666,3433,3.76,3.49,12,"Cloud, Excel",97,24,1,2025-12-10,0.0,79.8,Low,38,14
+47,Victor Ellsworth,Support,Manager Analyst,Sara Kingsley,2024-12-12,0.99,64950,9742,4.72,4.54,11,"Leadership, Java, Python, Design",57,27,1,2025-12-10,19.6,84.2,Low,33,24
+48,Yara Thornfield,Engineering,Associate Executive,Ethan Langford,2021-08-08,4.34,68083,0,3.6,4.23,12,"Cloud, Design",74,15,2,2023-12-11,0.0,52.8,Low,29,14
+49,Paula Oakridge,Support,Manager Analyst,Fiona Underwood,2016-07-19,9.4,178333,17833,3.95,3.84,7,"Design, Python, Java, Excel",76,8,0,,0.0,88.45,Low,33,24
+50,Caleb Fitzgerald,HR,Senior Engineer,Zane Harrington,2024-05-16,1.57,90466,13569,4.74,4.62,2,Testing,72,15,1,2022-12-11,0.0,69.5,Low,32,6
+51,Diana Yorkston,Sales,Lead Analyst,Laura Kingsley,2022-01-03,3.94,132833,13283,3.7,3.84,6,"SQL, Leadership, Design, Java",48,16,1,2025-12-10,23.8,57.1,Low,26,16
+52,Ryan Vanderbilt,HR,Senior Analyst,Julia Rutherford,2024-10-09,1.17,32925,4938,2.0,1.49,6,"Leadership, Data Analysis, Python, Design",72,1,0,,13.6,56.4,Low,32,5
+53,Wendy Westbrook,HR,Lead Engineer,Paula Yorkston,2021-12-17,3.98,106533,5326,3.94,3.67,2,Python,90,14,1,2023-12-11,0.0,61.1,Low,32,10
+54,Xander Iverson,Support,Lead Analyst,Xander Zephyr,2022-02-10,3.83,105533,10553,3.39,3.4,7,"Communication, Cloud, Python",67,19,1,2024-12-10,15.3,58.25,Low,33,16
+55,Hannah Ellsworth,Finance,Senior Executive,Uma Sinclair,2015-06-27,10.46,74866,7486,3.61,3.96,3,"Data Analysis, Java, Design, Cloud",79,14,0,,7.5,75.95,Low,22,14
+56,Thomas Ellsworth,Product,Manager Engineer,Diana Ellsworth,2015-07-14,10.42,149466,22419,2.78,3.54,5,"Testing, Design, Cloud, Excel",53,7,0,,28.2,62.3,Low,38,13
+57,Ethan Greenfield,Support,Lead Analyst,Julia Yorkston,2016-12-25,8.96,87333,13099,3.56,3.42,2,"Leadership, SQL",54,18,1,2025-12-10,22.8,48.2,Low,33,12
+58,Caleb Oakridge,Sales,Lead Analyst,Martin Kingsley,2024-02-17,1.81,57541,2877,3.44,3.07,6,"Excel, Data Analysis",71,8,1,2024-12-10,0.0,57.8,Low,26,8
+59,George Sinclair,Finance,Associate Executive,Ryan Underwood,2015-04-10,10.68,75600,0,3.82,4.56,9,"Python, Excel, Testing, Java",74,19,2,2024-12-10,0.0,50.1,Low,22,24
+60,Thomas Langford,Engineering,Lead Analyst,Oscar Zephyr,2024-10-04,1.18,43933,6589,3.01,2.81,7,"Excel, SQL, Cloud, Python",72,19,2,2024-12-10,5.1,33.55,Low,29,8
+61,Caleb Prescott,Support,Lead Analyst,Yara Thornfield,2020-08-23,5.3,57666,2883,3.57,4.3,9,"Leadership, Python, Data Analysis",90,9,1,2022-12-11,0.0,69.55,Low,33,8
+62,Diana Quimby,Sales,Senior Executive,Sara Vanderbilt,2017-05-09,8.59,171583,25737,3.21,2.94,12,"Cloud, Excel, Communication, Testing",31,16,0,,52.3,78.35,Medium,26,14
+63,Ryan Rutherford,Engineering,Lead Analyst,Kevin Prescott,2017-11-02,8.11,50275,5027,3.06,2.57,7,"Communication, Cloud, Design, Leadership",64,29,2,2025-12-10,23.0,32.7,Low,29,10
+64,Oscar Iverson,HR,Senior Analyst,Fiona Thornfield,2018-10-10,7.17,63900,6390,3.81,3.9,3,Design,69,22,0,,23.1,76.95,Low,32,14
+65,Laura Blackwood,Sales,Manager Executive,Aaron Westbrook,2020-01-14,5.91,44775,2238,3.66,3.6,6,"SQL, Data Analysis, Python",72,4,0,,0.6,81.3,Low,26,24
+66,Sara Yorkston,Product,Lead Engineer,Caleb Fitzgerald,2017-11-19,8.06,100300,0,1.0,1.0,7,"Java, SQL, Communication",68,11,2,2023-12-11,18.8,2.6,Low,38,10
+67,Victor Vanderbilt,Support,Lead Executive,Paula Westbrook,2016-05-06,9.6,107999,16199,3.23,3.12,7,"Excel, Design, Communication, Testing",80,20,2,2023-12-11,0.0,38.45,Low,33,16
+68,Hannah Yorkston,Sales,Manager Executive,Ryan Vanderbilt,2021-06-18,4.48,54933,8239,3.02,4.12,4,"Leadership, Cloud, Design",80,21,2,2025-12-10,1.0,29.3,Low,26,14
+69,Laura Jamison,Sales,Senior Executive,Wendy Westbrook,2020-09-16,5.24,143666,0,3.49,3.39,9,"Python, Data Analysis, Java",68,14,2,2025-12-10,0.0,43.95,Low,26,14
+70,Fiona Oakridge,Product,Lead Analyst,Julia Prescott,2020-03-08,5.76,59200,8880,2.77,2.72,10,"Communication, Cloud",74,4,0,,7.9,76.35,Low,38,10
+71,Nina Iverson,Engineering,Manager Specialist,Uma Jamison,2022-10-14,3.16,126333,12633,3.96,4.25,10,"Excel, SQL, Communication",65,23,1,2023-12-11,16.0,72.4,Low,29,11
+72,Fiona Ellsworth,HR,Manager Specialist,Xander Crawford,2018-10-02,7.19,47975,7196,2.37,2.04,0,"Excel, Data Analysis",94,24,1,2024-12-10,9.9,34.35,Low,32,8
+73,Thomas Fitzgerald,Product,Lead Analyst,Laura Oakridge,2015-01-25,10.88,76266,11439,4.22,4.4,3,SQL,58,2,1,2022-12-11,0.0,60.9,Low,38,24
+74,Ian Sinclair,HR,Manager Analyst,Bella Prescott,2019-11-27,6.04,120266,12026,3.5,2.87,3,"Python, Cloud",61,28,0,,39.8,70.7,Medium,32,5
+75,Julia Donovan,Sales,Manager Executive,Wendy Ellsworth,2024-04-12,1.66,45533,0,3.3,3.12,2,Java,84,20,0,,13.8,70.3,Low,26,12
+76,Caleb Sinclair,Product,Associate Engineer,Kevin Donovan,2021-07-19,4.4,109333,5466,2.37,1.94,12,Design,49,19,1,2023-12-11,39.9,49.35,Medium,38,8
+77,Ethan Rutherford,Product,Lead Specialist,Caleb Oakridge,2022-12-09,3.01,75050,7505,2.51,2.57,9,"Communication, Testing, Java",45,9,1,2023-12-11,29.7,44.65,Low,38,14
+78,Victor Harrington,HR,Senior Specialist,Ryan Iverson,2020-02-15,5.82,118800,17820,4.1,3.98,1,"Excel, Leadership",71,23,0,,19.8,77.7,Low,32,12
+79,Julia Langford,Support,Senior Analyst,Thomas Langford,2022-01-05,3.93,39825,5973,3.76,3.54,3,"Excel, Testing",85,4,0,,0.0,79.4,Low,33,14
+80,Ian Blackwood,Finance,Manager Specialist,Ian Langford,2017-04-20,8.65,68833,3441,3.34,3.64,0,Design,67,18,2,2024-12-10,4.6,23.5,Low,22,13
+81,Ethan Thornfield,HR,Lead Analyst,Caleb Prescott,2018-02-28,7.79,98950,14842,3.73,3.87,6,Cloud,73,9,2,2022-12-11,0.0,42.55,Low,32,13
+82,Diana Underwood,Sales,Lead Engineer,Wendy Rutherford,2023-08-15,2.32,71600,0,2.72,2.94,10,"Data Analysis, SQL, Python",65,15,0,,28.8,73.8,Low,26,8
+83,Thomas Yorkston,Sales,Associate Analyst,Uma Ellsworth,2021-12-06,4.01,133416,0,4.0,2.92,3,"Communication, Design, Testing",48,14,0,,28.4,75.6,Low,26,10
+84,Oscar Quimby,Marketing,Lead Analyst,Oscar Iverson,2017-12-07,8.01,66700,0,3.79,4.72,11,"Data Analysis, Testing, Communication, SQL",82,13,0,,2.1,95.25,Low,20,7
+85,Fiona Kingsley,Product,Associate Analyst,Uma Crawford,2015-06-08,10.52,112599,5629,2.95,2.1,9,"Cloud, Excel",81,7,0,,4.1,78.45,Low,38,14
+86,Thomas Oakridge,Product,Lead Engineer,Fiona Westbrook,2022-12-25,2.96,49866,0,3.44,3.74,0,"Java, Design, SQL",71,7,1,2023-12-11,0.0,45.8,Low,38,11
+87,Yara Crawford,Engineering,Manager Analyst,Thomas Quimby,2021-07-28,4.37,68208,0,3.52,5.0,7,"Cloud, Leadership",69,15,0,,17.6,80.6,Low,29,11
+88,Ian Donovan,Marketing,Manager Analyst,Victor Zephyr,2019-10-30,6.12,151000,7550,3.37,3.31,8,Cloud,61,23,2,2024-12-10,15.1,38.75,Low,20,12
+89,Julia Blackwood,Sales,Lead Executive,Laura Jamison,2024-12-28,0.95,64750,9712,4.29,4.11,0,Negotiation,79,27,1,2025-12-10,6.3,60.15,Low,26,10
+90,Nina Rutherford,HR,Associate Analyst,George Northwood,2020-06-27,5.46,145500,7275,3.73,4.34,2,"Cloud, Design, Java",76,28,1,2023-12-11,15.5,55.15,Low,32,13
+91,Kevin Vanderbilt,HR,Associate Engineer,Kevin Underwood,2020-05-30,5.53,58433,0,2.53,1.87,7,"Communication, Leadership, Negotiation, Java",91,17,1,2023-12-11,2.3,50.15,Low,32,24
+92,Oscar Langford,Engineering,Manager Analyst,Uma Thornfield,2024-02-21,1.8,69000,3450,3.01,2.35,6,"Design, Data Analysis",59,23,0,,40.3,68.95,Medium,29,10
+93,Martin Ellsworth,Engineering,Lead Executive,Thomas Fitzgerald,2024-02-29,1.78,57416,8612,4.51,3.8,10,"Negotiation, SQL, Communication, Python",57,28,1,2022-12-11,22.9,79.05,Low,29,12
+94,Diana Prescott,HR,Senior Executive,Sara Fitzgerald,2020-07-08,5.43,145250,14525,2.97,2.34,8,"Data Analysis, SQL",52,6,0,,25.9,70.95,Low,32,13
+95,Paula Langford,Sales,Lead Engineer,Ethan Prescott,2021-03-03,4.78,69916,10487,2.29,2.06,3,"Data Analysis, Excel, Python, Negotiation",64,16,1,2025-12-10,25.1,33.15,Low,26,14
+96,Aaron Quimby,Product,Lead Executive,Wendy Quimby,2022-05-04,3.61,39025,3902,2.95,2.12,11,"Data Analysis, Communication",88,0,0,,0.0,83.85,Low,38,12
+97,Laura Vanderbilt,Product,Associate Analyst,Ian Vanderbilt,2017-02-12,8.83,104150,5207,2.44,2.58,2,Cloud,53,4,0,,28.0,51.2,Low,38,13
+98,Yara Iverson,Finance,Associate Engineer,Victor Harrington,2015-11-02,10.11,55274,0,4.03,4.51,3,"Data Analysis, Cloud, Testing, Java",56,5,2,2022-12-11,0.0,37.65,Low,22,14
+99,Thomas Sinclair,HR,Senior Specialist,Ian Thornfield,2018-12-18,6.98,158166,15816,1.96,2.31,5,Cloud,98,5,0,,0.0,59.0,Low,32,16
+100,Oscar Greenfield,Engineering,Manager Analyst,Ian Blackwood,2022-03-07,3.76,105066,0,3.83,3.91,7,"Negotiation, Excel, SQL, Communication",82,25,1,2022-12-11,6.1,67.85,Low,29,24
+101,Caleb Vanderbilt,Support,Associate Analyst,Yara Ellsworth,2022-05-13,3.58,77900,0,4.11,3.7,10,"Python, Testing, Data Analysis, Cloud",60,7,0,,9.3,93.65,Low,33,6
+102,Nina Harrington,Finance,Manager Executive,Wendy Kingsley,2024-07-13,1.41,111750,11175,3.99,3.92,3,"Python, Communication",89,16,2,2024-12-10,0.0,43.65,Low,22,13
+103,Thomas Kingsley,Product,Senior Engineer,Julia Oakridge,2025-08-22,0.3,51249,5124,2.94,3.32,8,"Leadership, SQL, Python",75,10,2,2022-12-11,0.0,35.1,Low,38,14
+104,Ian Westbrook,Marketing,Manager Specialist,Bella Westbrook,2023-12-27,1.96,116333,5816,3.4,3.99,12,"SQL, Leadership",80,21,0,,17.2,91.0,Low,20,12
+105,Caleb Crawford,Support,Associate Specialist,Julia Kingsley,2023-10-01,2.19,94600,9460,2.7,3.02,10,Communication,90,9,2,2023-12-11,0.0,38.5,Low,33,5
+106,Aaron Underwood,HR,Senior Specialist,Zane Prescott,2016-02-10,9.84,145600,0,3.4,3.28,0,"Negotiation, Design, Leadership",59,0,2,2025-12-10,0.0,22.8,Low,32,24
+107,Sara Westbrook,HR,Associate Analyst,Yara Crawford,2025-03-18,0.73,84866,12729,3.49,3.83,8,"Cloud, Python, Excel, Negotiation",57,8,0,,19.1,79.75,Low,32,24
+108,Kevin Northwood,Sales,Senior Analyst,Kevin Thornfield,2015-03-21,10.73,151533,15153,2.42,2.23,7,"Communication, Python, Excel, Negotiation",49,13,1,2022-12-11,32.2,40.1,Low,26,10
+109,Xander Northwood,Support,Associate Analyst,Julia Blackwood,2020-04-21,5.64,58800,0,3.92,3.71,10,"Java, Design, Testing",43,27,1,2023-12-11,38.8,67.4,Medium,33,8
+110,Kevin Harrington,Sales,Lead Executive,Nina Rutherford,2023-07-24,2.38,95866,14379,3.22,3.12,11,"Design, Communication, Data Analysis",76,9,2,2024-12-10,0.0,45.5,Low,26,24
+111,Hannah Kingsley,Product,Manager Executive,George Greenfield,2017-03-13,8.75,103749,5187,3.38,4.31,7,Testing,62,19,2,2025-12-10,9.4,37.1,Low,38,6
+112,Paula Crawford,Marketing,Associate Executive,Kevin Westbrook,2022-06-24,3.47,38675,1933,3.45,3.4,1,"Data Analysis, Java",65,4,2,2023-12-11,0.0,26.75,Low,20,11
+113,Caleb Blackwood,Marketing,Associate Specialist,Sara Sinclair,2025-01-31,0.86,107166,5358,3.61,3.88,7,"Cloud, Communication",90,1,0,,0.0,86.15,Low,20,13
+114,Laura Iverson,Support,Associate Analyst,George Kingsley,2016-12-19,8.98,52450,5245,2.24,1.98,3,"Python, Cloud, Communication",63,15,1,2023-12-11,25.2,32.2,Low,33,13
+115,George Montgomery,Marketing,Senior Engineer,Diana Prescott,2016-07-30,9.37,89041,0,4.25,4.07,9,Design,41,17,0,,35.1,89.95,Medium,20,11
+116,Hannah Fitzgerald,Support,Manager Specialist,Uma Oakridge,2020-08-08,5.34,43350,0,3.57,3.55,0,"SQL, Excel",72,0,1,2024-12-10,0.0,47.95,Low,33,16
+117,Aaron Rutherford,Engineering,Manager Specialist,Victor Oakridge,2016-12-14,8.99,139933,20989,2.67,3.53,7,"Negotiation, SQL, Excel, Leadership",65,15,2,2024-12-10,9.3,27.05,Low,29,8
+118,Bella Thornfield,Sales,Manager Executive,Aaron Quimby,2021-09-30,4.2,54000,5400,3.35,2.9,5,Design,56,1,1,2025-12-10,2.9,51.45,Low,26,7
+119,Aaron Jamison,HR,Manager Engineer,Thomas Sinclair,2019-06-25,6.47,76958,7695,2.52,2.32,0,"Leadership, Design",55,23,2,2022-12-11,28.4,8.8,Low,32,7
+120,Hannah Iverson,Product,Manager Analyst,Sara Rutherford,2019-03-20,6.73,93650,9365,5.0,4.06,5,"SQL, Negotiation, Java, Communication",53,6,0,,4.8,95.6,Low,38,16
+121,Aaron Greenfield,Support,Associate Specialist,Zane Vanderbilt,2017-03-17,8.74,69133,10369,3.18,3.52,7,"Python, Design, Data Analysis",63,1,0,,9.0,74.3,Low,33,11
+122,George Zephyr,HR,Senior Executive,Bella Ellsworth,2018-07-29,7.37,64566,6456,4.04,3.55,10,Excel,70,29,1,2025-12-10,18.4,74.6,Low,32,12
+123,Wendy Vanderbilt,Finance,Manager Specialist,Laura Langford,2022-03-26,3.71,52366,7854,4.9,4.42,8,Negotiation,76,27,0,,12.6,104.7,Low,22,13
+124,Hannah Northwood,Product,Associate Engineer,Ian Westbrook,2024-04-27,1.62,45400,6810,3.67,2.54,9,"Python, Communication, Excel, Leadership",61,20,2,2025-12-10,8.5,45.25,Low,38,24
+125,Hannah Blackwood,Engineering,Associate Analyst,Thomas Prescott,2023-10-04,2.19,59125,0,4.4,4.47,10,"Java, Design, Testing",51,13,1,2022-12-11,10.8,76.2,Low,29,10
+126,Paula Thornfield,HR,Associate Analyst,Martin Rutherford,2018-03-13,7.75,82291,4114,4.05,3.81,6,"Java, Design",75,12,0,,3.9,87.75,Low,32,13
+127,Yara Underwood,HR,Senior Specialist,Julia Jamison,2020-08-27,5.29,115266,0,3.8,3.24,4,"Negotiation, Java, Cloud",81,7,0,,0.0,81.2,Low,32,12
+128,George Langford,Engineering,Senior Engineer,Laura Prescott,2024-12-09,1.0,43333,0,2.69,2.04,3,"Data Analysis, Excel",56,3,2,2024-12-10,1.9,17.55,Low,29,24
+129,Zane Quimby,Finance,Senior Analyst,Kevin Harrington,2018-03-01,7.78,49450,0,3.22,3.27,6,"Testing, Communication",58,15,0,,29.4,71.9,Low,22,10
+130,Laura Quimby,Product,Senior Engineer,Aaron Oakridge,2018-04-10,7.67,131133,13113,4.1,4.23,12,"Leadership, Java, Testing, Python",59,1,2,2025-12-10,0.0,57.3,Low,38,13
+131,Martin Greenfield,Support,Manager Executive,Laura Harrington,2025-04-22,0.64,63199,9479,4.21,4.79,11,"Design, Leadership, Python",68,10,0,,5.5,98.75,Low,33,14
+132,Victor Greenfield,HR,Senior Engineer,Diana Crawford,2021-02-07,4.84,140333,7016,3.33,2.44,0,"Data Analysis, Python",63,15,2,2022-12-11,4.3,22.55,Low,32,13
+133,Uma Iverson,Finance,Lead Specialist,Hannah Donovan,2019-09-18,6.23,75958,7595,3.27,3.39,12,"Java, Testing, Negotiation",67,28,1,2023-12-11,27.3,66.45,Low,22,24
+134,Ryan Crawford,Product,Manager Analyst,Fiona Northwood,2017-04-05,8.69,137933,20689,3.7,4.47,2,Excel,62,29,2,2023-12-11,18.2,31.9,Low,38,8
+135,Julia Montgomery,Product,Associate Executive,Nina Montgomery,2022-01-31,3.86,105733,15859,3.11,2.46,1,"Testing, Excel, Cloud",69,8,0,,13.3,62.45,Low,38,11
+136,George Blackwood,Finance,Lead Analyst,Paula Crawford,2015-12-17,9.99,109950,10995,4.28,3.4,11,Python,60,23,1,2022-12-11,16.8,78.2,Low,22,11
+137,Oscar Harrington,Finance,Senior Executive,Laura Iverson,2020-05-15,5.58,43950,0,3.53,3.96,11,"Python, Design, Data Analysis",75,19,0,,17.5,89.95,Low,22,14
+138,Caleb Kingsley,Finance,Senior Executive,Fiona Greenfield,2015-05-01,10.62,75399,11309,3.76,3.65,5,Design,77,29,0,,25.6,81.8,Low,22,8
+139,Thomas Northwood,HR,Senior Engineer,Sara Crawford,2021-07-09,4.42,109466,16419,4.31,3.46,4,"Testing, Negotiation, Communication",80,10,0,,0.0,88.65,Low,32,13
+140,Fiona Sinclair,HR,Senior Engineer,Ian Jamison,2019-02-25,6.79,93950,9395,3.42,3.16,1,"SQL, Communication, Data Analysis, Leadership",33,2,0,,31.8,59.9,Low,32,16
+141,Oscar Montgomery,Engineering,Senior Specialist,Ian Fitzgerald,2017-03-02,8.78,103899,15584,2.4,3.25,7,"Communication, Leadership, Java, Testing",59,15,0,,36.8,61.8,Medium,29,6
+142,Caleb Greenfield,Sales,Manager Specialist,George Fitzgerald,2019-11-16,6.07,90350,0,2.63,2.4,4,Data Analysis,58,16,1,2023-12-11,26.5,39.05,Low,26,14
+143,Ian Northwood,Engineering,Lead Engineer,Xander Donovan,2025-02-15,0.82,32050,0,3.6,4.36,10,Negotiation,61,7,0,,13.6,86.2,Low,29,24
+144,Xander Thornfield,Finance,Associate Analyst,Aaron Iverson,2017-06-21,8.48,102400,10240,3.62,3.05,10,Data Analysis,92,10,0,,0.0,92.7,Low,22,8
+145,Ryan Montgomery,Engineering,Associate Analyst,Hannah Fitzgerald,2015-08-10,10.34,186166,18616,3.65,3.11,0,"Excel, Python, Negotiation",83,27,0,,19.5,71.35,Low,29,16
+146,Ethan Crawford,Marketing,Associate Engineer,Aaron Rutherford,2023-04-14,2.66,122166,12216,4.46,4.54,9,"Leadership, Data Analysis, Design",45,29,0,,44.2,93.9,Medium,20,11
+147,Ryan Blackwood,Finance,Senior Executive,Aaron Jamison,2024-11-08,1.09,43633,6544,4.93,5.0,10,Leadership,87,12,2,2022-12-11,0.0,71.35,Low,22,13
+148,Paula Quimby,Marketing,Lead Analyst,Hannah Iverson,2017-01-17,8.9,104500,10450,3.06,2.86,2,"Negotiation, Leadership, Java, Cloud",71,1,1,2023-12-11,0.0,44.1,Low,20,5
+149,Fiona Zephyr,Product,Senior Analyst,Wendy Vanderbilt,2024-05-20,1.56,67800,3390,4.39,4.46,0,"Cloud, Communication",51,5,1,2023-12-11,1.3,56.05,Low,38,5
+150,Bella Sinclair,HR,Manager Executive,Hannah Blackwood,2023-03-03,2.78,73900,3695,3.71,4.52,5,"Testing, SQL, Negotiation, Design",70,21,1,2024-12-10,12.1,59.65,Low,32,13
+151,Caleb Thornfield,Product,Senior Analyst,Aaron Northwood,2023-02-13,2.82,123499,6174,3.6,2.97,6,Data Analysis,48,0,1,2022-12-11,5.6,55.6,Low,38,24
+152,Caleb Quimby,Finance,Associate Executive,Yara Underwood,2021-09-23,4.22,54066,2703,2.99,2.83,5,Leadership,71,8,2,2023-12-11,0.0,29.05,Low,22,12
+153,George Thornfield,Finance,Lead Analyst,Victor Kingsley,2024-02-06,1.84,57666,2883,3.63,4.43,1,Leadership,70,15,2,2023-12-11,0.0,30.45,Low,22,13
+154,Yara Langford,Support,Manager Engineer,Oscar Sinclair,2019-03-17,6.74,156166,7808,4.35,4.33,0,"Testing, Leadership",91,14,0,,0.0,83.45,Low,33,11
+155,Yara Prescott,Support,Lead Analyst,Uma Iverson,2019-05-29,6.54,154500,15450,2.0,1.7,10,"Leadership, Communication, Design",84,25,2,2024-12-10,12.8,26.8,Low,33,14
+156,Nina Greenfield,Product,Associate Executive,Julia Montgomery,2019-10-01,6.2,45500,6825,3.36,3.83,0,"Negotiation, Testing, Python, SQL",75,19,0,,19.2,65.4,Low,38,13
+157,George Prescott,Product,Manager Executive,Thomas Jamison,2018-11-09,7.09,63633,6363,4.26,4.57,8,"Python, Java, Cloud",80,9,0,,0.0,95.9,Low,38,13
+158,Thomas Blackwood,Product,Senior Executive,Caleb Kingsley,2024-03-25,1.71,34275,5141,4.69,5.0,6,"Communication, Testing, Excel",84,25,0,,5.9,99.15,Low,38,8
+159,Victor Thornfield,Product,Associate Executive,Thomas Northwood,2015-02-18,10.82,190166,9508,3.52,3.23,12,Leadership,60,3,2,2022-12-11,0.0,48.8,Low,38,11
+160,Thomas Vanderbilt,Support,Senior Engineer,Kevin Montgomery,2017-03-22,8.73,86375,4318,4.1,2.88,7,"Excel, Testing, Negotiation",50,25,0,,39.0,85.5,Medium,33,10
+161,Yara Kingsley,Sales,Associate Specialist,Victor Langford,2024-08-21,1.3,110833,0,2.73,2.61,3,"SQL, Python, Negotiation, Java",30,13,0,,54.3,52.95,Medium,26,13
+162,Oscar Yorkston,Product,Senior Specialist,Martin Underwood,2017-08-06,8.35,67833,3391,4.51,4.81,0,"Communication, Design",99,4,1,2023-12-11,0.0,67.45,Low,38,14
+163,Yara Zephyr,Support,Lead Engineer,Yara Fitzgerald,2025-04-22,0.64,42133,4213,4.35,4.87,7,Testing,100,9,0,,0.0,99.25,Low,33,13
+164,Victor Donovan,Marketing,Manager Specialist,Xander Oakridge,2023-04-23,2.64,97600,14640,3.04,2.29,10,Python,66,15,2,2023-12-11,4.8,38.8,Low,20,5
+165,Ryan Langford,HR,Associate Specialist,Wendy Thornfield,2017-04-01,8.7,69000,6900,2.84,2.71,3,"Testing, Excel",54,3,1,2024-12-10,12.0,39.4,Low,32,14
+166,Ryan Zephyr,Engineering,Lead Specialist,Ryan Blackwood,2024-08-05,1.35,44500,2225,3.95,4.21,4,"Excel, Design, SQL",69,25,1,2023-12-11,15.3,61.05,Low,29,7
+167,Zane Greenfield,Engineering,Associate Specialist,Ethan Underwood,2024-03-26,1.71,114250,0,3.75,3.68,2,"Data Analysis, SQL, Design, Python",81,14,0,,4.5,76.45,Low,29,14
+168,Nina Fitzgerald,Finance,Lead Engineer,George Thornfield,2023-01-03,2.94,99600,4980,3.56,3.43,2,"Testing, Data Analysis",83,4,1,2022-12-11,0.0,54.0,Low,22,16
+169,Hannah Prescott,Support,Senior Specialist,Xander Ellsworth,2019-12-24,5.97,74875,3743,4.51,5.0,9,"Python, Excel",55,3,0,,4.5,96.65,Low,33,16
+170,Sara Prescott,Engineering,Manager Analyst,Nina Greenfield,2020-01-22,5.89,44725,0,3.07,2.22,6,"Testing, Data Analysis",66,6,1,2022-12-11,3.7,51.25,Low,29,10
+171,Martin Fitzgerald,HR,Lead Specialist,George Prescott,2024-02-26,1.79,45966,2298,3.83,3.76,11,"Leadership, Python",98,17,0,,0.0,99.05,Low,32,16
+172,Sara Iverson,HR,Lead Engineer,Laura Montgomery,2024-08-02,1.36,89066,13359,3.18,2.64,8,"Leadership, Negotiation",78,25,0,,25.8,79.3,Low,32,13
+173,Fiona Langford,Support,Senior Executive,Nina Quimby,2016-04-28,9.62,180166,0,3.62,3.89,4,"Java, Cloud, Data Analysis",74,0,2,2025-12-10,0.0,37.1,Low,33,10
+174,Ian Harrington,Support,Manager Executive,Yara Zephyr,2024-10-04,1.18,87866,8786,3.7,2.64,2,Excel,59,10,0,,17.8,71.3,Low,33,10
+175,Nina Sinclair,Support,Senior Executive,Ethan Oakridge,2020-10-11,5.17,42925,0,3.03,2.86,10,"Data Analysis, Design, Communication, SQL",63,30,0,,45.3,78.05,Medium,33,6
+176,Ryan Sinclair,Product,Senior Executive,Ryan Zephyr,2021-09-29,4.2,40500,2025,3.83,4.13,8,"Negotiation, Leadership, SQL, Design",53,28,1,2022-12-11,32.9,64.05,Low,38,13
+177,Thomas Greenfield,Product,Associate Engineer,Ryan Donovan,2022-04-12,3.67,78350,3917,4.05,4.34,6,"Leadership, Testing, Java, Data Analysis",76,10,1,2024-12-10,0.0,67.95,Low,38,13
+178,Laura Underwood,Engineering,Associate Engineer,Martin Quimby,2022-02-11,3.83,52766,2638,2.37,2.59,0,"Data Analysis, Java, Leadership, Testing",71,8,1,2023-12-11,9.1,29.75,Low,29,11
+179,George Yorkston,Sales,Senior Specialist,Uma Harrington,2019-06-01,6.53,46325,0,4.27,5.0,0,"Negotiation, Cloud",93,12,2,2023-12-11,0.0,42.65,Low,26,11
+180,Zane Zephyr,Product,Lead Specialist,Nina Yorkston,2024-05-16,1.57,90466,13569,3.59,3.59,12,"Leadership, Negotiation, Cloud, SQL",79,1,2,2023-12-11,0.0,53.65,Low,38,16
+181,Zane Sinclair,Support,Lead Engineer,Sara Thornfield,2022-07-27,3.38,38450,5767,2.61,1.88,6,"SQL, Leadership",62,10,0,,26.3,63.55,Low,33,13
+182,Yara Blackwood,Engineering,Lead Specialist,Laura Sinclair,2022-03-16,3.74,78700,0,4.48,4.31,9,Python,92,21,2,2024-12-10,0.0,63.6,Low,29,8
+183,Zane Oakridge,Engineering,Lead Specialist,Wendy Underwood,2023-03-08,2.76,49200,7380,1.27,1.0,6,SQL,68,14,0,,39.7,44.65,Medium,29,8
+184,Julia Vanderbilt,Support,Senior Analyst,Fiona Donovan,2015-12-05,10.02,146800,7340,4.21,4.18,2,"Testing, SQL",68,12,0,,7.9,80.75,Low,33,24
+185,Paula Ellsworth,Engineering,Associate Analyst,George Westbrook,2018-08-08,7.35,80624,8062,3.4,2.52,10,"Communication, Negotiation",87,17,0,,6.8,88.4,Low,29,24
+186,Thomas Thornfield,Finance,Lead Analyst,Caleb Underwood,2018-11-18,7.07,63566,6356,2.95,3.49,4,"Python, Data Analysis, Cloud, Negotiation",68,21,1,2025-12-10,21.3,45.85,Low,22,11
+187,Zane Northwood,Support,Associate Engineer,Diana Rutherford,2024-05-19,1.56,112999,0,4.35,4.52,4,"SQL, Excel, Leadership, Testing",68,19,0,,14.9,86.85,Low,33,11
+188,Ryan Kingsley,HR,Lead Engineer,Uma Fitzgerald,2015-03-13,10.75,113750,17062,3.68,2.94,0,"Data Analysis, Leadership, Testing, Python",70,13,2,2024-12-10,0.0,29.2,Low,32,11
+189,Nina Westbrook,Finance,Lead Executive,Kevin Rutherford,2017-08-07,8.35,67833,0,4.87,5.0,5,"Negotiation, Excel, Leadership",55,25,2,2023-12-11,7.3,54.05,Low,22,13
+190,Laura Greenfield,Marketing,Senior Engineer,Bella Quimby,2019-07-30,6.37,153083,0,3.9,4.02,1,"Python, Leadership, Excel, Testing",82,1,1,2025-12-10,0.0,56.9,Low,20,14
+191,Sara Montgomery,Engineering,Senior Analyst,Xander Langford,2022-09-26,3.21,76050,11407,3.58,3.46,10,"Java, Data Analysis, Cloud",89,22,2,2024-12-10,0.0,51.5,Low,29,13
+192,Victor Prescott,Marketing,Manager Specialist,Nina Westbrook,2018-04-23,7.64,130933,19639,3.67,4.3,9,"Python, Excel, Leadership, Testing",84,21,0,,11.3,89.85,Low,20,10
+193,Wendy Zephyr,HR,Lead Engineer,Oscar Ellsworth,2025-03-11,0.75,106250,10625,3.24,3.16,3,Design,98,7,2,2025-12-10,0.0,34.2,Low,32,24
+194,Yara Yorkston,Marketing,Lead Engineer,Ethan Montgomery,2020-02-26,5.79,59300,0,3.65,3.27,6,Data Analysis,51,5,0,,18.7,76.95,Low,20,13
+195,Ethan Fitzgerald,Marketing,Manager Specialist,Victor Prescott,2018-03-06,7.77,49425,4942,4.28,4.36,3,"Cloud, Negotiation, Data Analysis, Python",58,11,1,2022-12-11,4.0,61.8,Low,20,13
+196,George Ellsworth,Sales,Senior Engineer,Wendy Zephyr,2020-04-22,5.64,73500,0,4.04,4.12,7,"Negotiation, Data Analysis, Testing",45,1,0,,14.8,83.6,Low,26,14
+197,Ryan Jamison,Sales,Lead Specialist,Diana Northwood,2018-03-06,7.77,82375,8237,3.97,4.64,2,Java,100,22,2,2023-12-11,0.0,43.55,Low,26,13
+198,George Oakridge,Product,Associate Executive,George Oakridge,2021-01-21,4.89,70375,3518,3.53,3.65,11,"Negotiation, Data Analysis, SQL, Excel",94,25,2,2023-12-11,0.0,53.75,Low,38,13
+199,Laura Harrington,Support,Lead Executive,Kevin Langford,2023-09-13,2.24,47466,2373,3.63,3.77,0,"Leadership, Java, SQL, Communication",60,24,0,,34.5,66.45,Low,33,8
+200,Laura Ellsworth,Sales,Senior Engineer,Martin Northwood,2020-01-20,5.89,44725,0,2.38,2.84,2,"Leadership, SQL",50,21,1,2024-12-10,41.4,29.7,Medium,26,7
